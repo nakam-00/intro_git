@@ -1,3 +1,4 @@
 aaa
 他のヒトが変更 
 git merge
+２
